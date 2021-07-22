@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.upper-img{
+    width: 85rem;
+    height: 600px;
+    background-image: url("img/_MG_1667.jpg");
+    background-position: top;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.isi{
+    background-color: rgb(3, 3, 29);
+    width: 85rem;
+    height: 200px;
+    padding: 50px;
+}
+.isi .text{
+    font-family: monospace;
+    font-weight: 300;
+    color: white;
+    text-align: center;
+
+}
